@@ -1,0 +1,6 @@
+@TalentoPlusSAS.Api_HostAddress = http://localhost:5135
+
+GET {{TalentoPlusSAS.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
