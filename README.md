@@ -1,5 +1,3 @@
-# TalentoPlusSAS
-
 # 🏢 TalentoPlusSAS - Sistema de Gestión de Nómina y RRHH
 
 Sistema backend robusto para la gestión de nómina, cálculo de KPIs y generación automática de certificados, desarrollado con **.NET 8** y arquitectura basada en **Microservicios (Simulados)** y **Domain-Driven Design (DDD)**.
